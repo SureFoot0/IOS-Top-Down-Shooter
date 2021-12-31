@@ -10,4 +10,3 @@ public class BulletControls : MonoBehaviour
     }
 
 }
-// This is  comment AND i chnaged it. 
